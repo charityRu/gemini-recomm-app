@@ -1,0 +1,7 @@
+{
+  "Fiction": ["Happy", "Sad", "Adventurous"],
+  "Non-Fiction": ["Curious", "Motivated"],
+  "Fantasy": ["Escapist", "Adventurous"],
+  "Science": ["Curious", "Analytical"],
+  "Romance": ["Hopeful", "Emotional"]
+}
